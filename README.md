@@ -12,12 +12,12 @@ Using the DataSet presented below you will find a correlation between the employ
 - Summary
 - Necessary Acknowledgments
 
-**Documentation**
+**Documentation:**
 The Data Set used in order to analyse the data is gathered in "survey_results_public.csv". This file was used into the Udemy Data Science classes and it is an important database from where a lot of correlations can be performed as the number of responders are ~20000 from more than 150 countries, with different Formal Educations. Thus, the data to being analyed are ver complex and complete.
 
 The code can be found in "Project1_DataScience.ipynb", along with their results after complilation.
 
-**Lybraries**
+**Lybraries:**
 Some lybraries have been imported in order to be able to access some functions.
 - pandas - used for data wrangling and data manipulation purposes
 - numpy - used used to create arrays or matrices
