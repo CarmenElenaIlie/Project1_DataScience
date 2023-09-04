@@ -29,3 +29,16 @@ Some lybraries have been imported in order to be able to access some functions.
 In order to understand better what data may influence the Job Satisfaction given grades by ~20000 responders we needed to use predictions applyed on different columns of the Data Set. 
 First of all the NaN values and cartegorical data had to be formated to fit the predictive model.
 Some rows/columns containing NaN values have been dropped and the categorical values have been dummied and attached with the prefix "_" because in the .cvs the were situations when the same respondent gave more than 1 answeres to the same question.
+There were used, according to the course, some methods of formating the DataSet until to get the conclusion:
+- Split the DataSet into explanatory and response variables
+- Split into train and test
+- Instantiate
+- Fit the model
+- Predict using your model
+- Score using your model
+In the end a new function has been used by analysing the X_train DataSet and model coefficient. It's output was basically the correlation between Job Satisfaction and different columns from Data Set.
+It was clearly seen that the employees with high Job Satisfaction are not interested on new opportunities and they do not even search for them. Also, the Job Search status from Stack Overflow shows that those employees are not intended into searching new jobs.
+Another conclusion was that the poeple with high Job Satisfaction had reviwed very high their Career Satisfaction.
+
+**Necessary Acknowledgments:**
+Code releases under Udemy Data Science course.
