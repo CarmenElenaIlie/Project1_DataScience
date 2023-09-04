@@ -19,9 +19,9 @@ The code can be found in "Project1_DataScience.ipynb", along with their results 
 
 **Lybraries**
 Some lybraries have been imported in order to be able to access some functions.
--> pandas - used for data wrangling and data manipulation purposes
--> numpy - used used to create arrays or matrices
--> matplotlib.pyplot
--> sklearn.model_selection - used for plotting simple 2D graphs using Python
--> sklearn.linear_model - contains different functions for performing machine learning with linear models
+- pandas - used for data wrangling and data manipulation purposes
+- numpy - used used to create arrays or matrices
+- matplotlib.pyplot
+- sklearn.model_selection - used for plotting simple 2D graphs using Python
+- sklearn.linear_model - contains different functions for performing machine learning with linear models
 -> sklearn.metrics - assess the quality of your predictions
