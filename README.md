@@ -8,8 +8,7 @@ Using the DataSet presented below you will find a correlation between the employ
 **Table of contents:**
 - Documentation
 - Lybraries
-- Motivation
-- Summary
+- Motivation &  Summary
 - Necessary Acknowledgments
 
 **Documentation:**
@@ -25,3 +24,8 @@ Some lybraries have been imported in order to be able to access some functions.
 - sklearn.model_selection - used for plotting simple 2D graphs using Python
 - sklearn.linear_model - contains different functions for performing machine learning with linear models
 -> sklearn.metrics - assess the quality of your predictions
+
+**Motivation & Summary:**
+In order to understand better what data may influence the Job Satisfaction given grades by ~20000 responders we needed to use predictions applyed on different columns of the Data Set. 
+First of all the NaN values and cartegorical data had to be formated to fit the predictive model.
+Some rows/columns containing NaN values have been dropped and the categorical values have been dummied and attached with the prefix "_" because in the .cvs the were situations when the same respondent gave more than 1 answeres to the same question.
