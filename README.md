@@ -1,5 +1,7 @@
 # Project1_DataScience
 
+Link for GitHub Post: https://medium.com/@carmen.ilie/what-influences-your-job-satisfaction-66eaa9148042
+
 **Description:**
 
 This repository is for "Project: Writing a Data Scientist Blog Post" 
